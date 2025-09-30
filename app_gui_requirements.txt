@@ -1,0 +1,15 @@
+# Additional requirements for app_gui.py (Advanced Video Editor)
+# Install with: pip install -r app_gui_requirements.txt
+
+# Video processing
+opencv-python>=4.8.0
+opencv-contrib-python>=4.8.0
+
+# Audio processing
+pygame>=2.5.0
+
+# Image processing and GUI
+Pillow>=10.0.0
+
+# Existing requirements (if not already installed)
+# tkinter is included with Python standard library
