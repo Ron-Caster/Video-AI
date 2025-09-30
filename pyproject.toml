@@ -1,0 +1,8 @@
+[project]
+name = "video-cli"
+version = "0.1.0"
+description = "Join videos, add captions, mix BGM"
+requires-python = ">=3.10"
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
